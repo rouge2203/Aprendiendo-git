@@ -2,4 +2,4 @@ Esta es la historia
 
 de cómo empecé a aprender a usar git
 
-con PLatzi
+con Platzi
