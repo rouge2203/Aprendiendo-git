@@ -3,3 +3,5 @@ Esta es la historia
 de cómo empecé a aprender a usar git
 
 con Platzi
+
+Creo que ya me estoy acostumbrando a ciertos comandos.
