@@ -4,6 +4,10 @@ color: black;
 text-align: center;
 }
 
+#spaan{
+    font-size: 15px;
+    color: gray;
+}
 #cabecera{
     color:white;
     background-color: blue;
@@ -14,6 +18,7 @@ text-align: center;
     padding: 1%;
     text-align: left;
 }
+
 
 #container{
     border: black 1px solid;
