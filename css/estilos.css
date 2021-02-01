@@ -1,16 +1,21 @@
+
 *{
 font-family:cursive;
 color: black;
 text-align: center;
 }
 
+
+
 #spaan{
     font-size: 15px;
     color: gray;
 }
+
+
 #cabecera{
     color:white;
-    background-color: blue;
+    background-color: rgba(129, 129, 180, 0.692);
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 50px;
@@ -21,12 +26,17 @@ text-align: center;
 
 
 #container{
-    border: black 1px solid;
-    background-color: rgb(250, 255, 227);
+    border: black 10px double;
+    border-radius: 1%;
+    background-color: rgba(147, 171, 175, 0.527);
+}
+
+.h1{
+    color: blueviolet;
 }
 
 .imagen{
     height: 100px;
     width: 180px;
-    padding-bottom: 5px;
+    padding: 5px;
 }
